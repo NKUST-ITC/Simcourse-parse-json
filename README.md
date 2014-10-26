@@ -26,9 +26,10 @@
 {
 	"rows":[
 		{
+			"IsSelectable":false,
 			"SubjectChineseName":"核心通識(二)-管理與知識經濟",
+			"Message":"18.除合班課程、軍訓選修課程外，上學期新生班級課程均不開放舊生選課(加退選開放)",
 			"ClassShortName":"四通一甲",
-			"Group":"01",
 			"PropertiesCredit":2,
 			"propertiesRequiredOrElective":"必修",
 			"Teachers":"邱彬舜",
